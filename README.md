@@ -64,7 +64,7 @@ This solution demonstrates how to build a modern data warehouse using **SQL Serv
 
 This project is licensed under the [MIT License](LICENSE).
 
-## 🧑‍💻 About ME
+## 🧑‍💻 About Me
 
 Hi there! I'm **Manish Shrivastav**. I’m a data-driven software engineer and machine learning practitioner with a Ph.D. in Agricultural Engineering (Statistics minor). My professional experience spans developing scalable data platforms, integrating diverse data sources, and applying advanced analytics to solve real-world problems.
 
