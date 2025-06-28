@@ -68,6 +68,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 Hi there! I'm **Manish Shrivastav**. I’m a data-driven software engineer and machine learning practitioner with a Ph.D. in Agricultural Engineering (Statistics minor). My professional experience spans developing scalable data platforms, integrating diverse data sources, and applying advanced analytics to solve real-world problems.
 
-This portfolio project builds on my background in data engineering, statistical modeling, and cloud technologies to design and implement a modern data warehouse using SQL Server. I leverage best practices in ETL processes, dimensional data modeling (star and snowflake schemas), and SQL-based analytics to transform raw data into actionable business insights.
+This portfolio project builds on my background in data engineering, statistical modeling, and cloud technologies to design and implement a modern data warehouse using SQL Server. I leverage best practices in ETL processes, dimensional data modeling (star schema), and SQL-based analytics to transform raw data into actionable business insights.
 
 With hands-on expertise in Python, SQL, and cloud services (AWS, GCP), combined with a passion for AI/ML and data automation, I am committed to building efficient, scalable data solutions that empower informed decision-making.
