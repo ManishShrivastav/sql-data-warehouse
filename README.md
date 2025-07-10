@@ -63,7 +63,7 @@ This solution illustrates the process of building a modern data warehouse using 
 
 To help visualize the flow of data from the source systems to the final reports, here is a **Data Architecture Diagram** outlining the various layers of the project:
 
-![Data Architecture Diagram](sql-data-warehouse/docs/DHWArchitecture.png)
+![Data Architecture Diagram](docs/DHWArchitecture.png)
 
 - **Source Systems (ERP/CRM)**: Raw data from the source systems, typically provided in CSV files.
 - **Bronze Layer**: Raw, untransformed data ingested into the warehouse.
